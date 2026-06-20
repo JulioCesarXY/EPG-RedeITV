@@ -37,8 +37,8 @@ jobs:
     # 5. Verifica se o arquivo mudou, faz o commit e empurra de volta para o seu GitHub
     - name: Commit e Push das alterações
       run: |
-        git config --global user.name "GitHub Action Bot"
-        git config --global user.email "actions@github.com"
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
         git add lista_canais.m3u8
         
         # Só realiza o commit se de fato houver mudanças na lista para evitar falhas no log
