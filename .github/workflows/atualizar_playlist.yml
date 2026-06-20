@@ -39,12 +39,12 @@ jobs:
       run: |
         git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
         git config --local user.name "JulioCesarXY"
-        git add lista_canais.m3u8
         
-        # Só realiza o commit se de fato houver mudanças na lista para evitar falhas no log
-        if git diff --entry-status --cached lista_canais.m3u8; then
-          echo "Nenhuma mudança detectada na playlist."
-        else
+        # Verifica se o arquivo lista_canais.m3u8 foi modificado ou criado
+        if [ -n "$(git status --porcelain lista_canais.m3u8)" ]; then
+          git add lista_canais.m3u8
           git commit -m "Automação: Playlist M3U8 atualizada [skip ci]"
           git push
+        else
+          echo "Nenhuma mudança detectada na playlist. Nada para commitar."
         fi
