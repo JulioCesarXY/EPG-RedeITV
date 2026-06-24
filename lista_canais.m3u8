@@ -45,8 +45,6 @@ https://x1co.com.br/hls/0/stream.m3u8
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/yqiCD0kRAAW43V5qoFAybchc2kFHIW_v.jpg" group-title="Rio Grande do Sul",TV CASA DO PAI
 https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/TV-Liberdade-800x450-1.png" group-title="Rio Grande do Sul",TV Liberdade HD
-https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png" group-title="Rio Grande do Sul",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/summit-tv.png" group-title="Rio Grande do Sul",Summit TV
@@ -69,8 +67,6 @@ https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 https://stmv2.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/ijui-play.png" group-title="Rio Grande do Sul",Ijuí Play
 https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/xtreme-tv.png" group-title="Rio Grande do Sul",Xtreme TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/litoral-play-tv.png" group-title="Rio Grande do Sul",TV Praia
 https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/masper-tv.png" group-title="Rio Grande do Sul",Masper TV
@@ -517,8 +513,6 @@ https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/02/ararunatv.jpg" group-title="Paraíba",ArarunaTV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/581/2024/01/capa_eotv.png" group-title="Paraíba",Extremo Oriental TV
-https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTCtLMj/021.jpg" group-title="Paraíba",TV Diário Do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/MJR.jpg?alt=media&token=80fe892b-1227-4052-b313-09a29445d743" group-title="Paraíba",MJR TV
