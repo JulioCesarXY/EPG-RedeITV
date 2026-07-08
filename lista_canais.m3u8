@@ -69,8 +69,6 @@ https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 https://Stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2023/11/Logotipo_da_Rede_Cidade_Verde-1.png" group-title="Mato Grosso",Tv cidade verde Cuiabá
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tv-tbo.jpg?alt=media&token=e5b667f1-9f59-4024-adda-3fce4f106a8a" group-title="Mato Grosso",TBO
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-conquista.png" group-title="Mato Grosso",TV CONQUISTA
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/g8oxQVyy-Hpcm0EAykxx_U_WW9MDvsoX.jpg" group-title="Pernambuco",TV NOVA
@@ -117,6 +115,8 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/yqiCD0kRAAW43V5qoFAybchc2kFHIW_v.jpg" group-title="Rio Grande do Sul",TV CASA DO PAI
 https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/TV-Liberdade-800x450-1.png" group-title="Rio Grande do Sul",TV Liberdade HD
+https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png" group-title="Rio Grande do Sul",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/summit-tv.png" group-title="Rio Grande do Sul",Summit TV
@@ -203,8 +203,6 @@ https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 https://br5093.streamingdevideo.com.br:443/tvjudaica/tvjudaica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/gJ1JZs_YDTaYbqGkxhgPQsc4Z0L5_tXc.jpg" group-title="São Paulo",TVCJAÚ
 https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/8kS1pEHlKifG_AjsmSsau6EFqKjt3zgl.png" group-title="São Paulo",TVitapê Itapetininga
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/dtw6JgEyZTVtckM4W6QTAN6vralMUb09.jpg" group-title="São Paulo",TV INTERIOR PAULISTA
 https://video10.logicahost.com.br/interiorpaulista/interiorpaulista/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/sUWt0QyqSwvQU7Zc527xZ5b49FgxjVCH.jpeg" group-title="São Paulo",TV RIO PRETO
@@ -383,6 +381,8 @@ https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/playl
 https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-guara-redetv.png" group-title="Maranhão",TV Guará - RedeTV!
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/203/2024/07/245792697_3958664411025416_3600284647331741374_n-e1721651722307.png" group-title="Maranhão",TV Difusora São Luís
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/casa-gamela.png" group-title="Maranhão",Casa Gamela
 https://stmv3.voxtvhd.com.br/tvgamela/tvgamela/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/UnHaRAT9x7r24i01DmOqlwCeBWscmvZ0.png" group-title="Bahia",tv itapetinga kids
@@ -441,20 +441,6 @@ https://Stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/ja-viu-tv.png" group-title="Rio de Janeiro",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/gLwVvsFXmUDpSSC4rq40rDIGgeyWaiBq.png" group-title="Amazonas",TV Miura
-https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qrq83ZFdI9Tb1zx8XYv_pOF_AbRIF25y.png" group-title="Amazonas",Tv Clássicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tv-adorador-gospel.jpg?alt=media&token=fdf0f1fd-f5bc-4077-b8f8-a9c8490f57eb" group-title="Amazonas",Tv Adorador Gospel
-https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/amazon-sat.png" group-title="Amazonas",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/radiotvwebsilvesfm.jpeg" group-title="Amazonas",RADIOTVWEBSILVESFM
-https://stmv2.liveplushd.com.br/radiotvsilvesfm/radiotvsilvesfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/07/BDC-TV-800x450-2.png" group-title="Amazonas",BDC TV
-https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-explosaofm-filial.png" group-title="Amazonas",TV EXPLOSÃOFM FILIAL
-https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/dfvu0J4M3c_pQ5Qeks1Blits_TJPavaE.png" group-title="Espírito Santo",Já Viu TV Play
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Espírito Santo",IPP TV
@@ -553,6 +539,8 @@ https://pop.uniquetv.com.br/tvconexao/video.m3u8
 https://pop.uniquetv.com.br/tvjapao/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-tudo-parana.png" group-title="Paraná",TV TUDO PARANÁ
 https://pop.uniquetv.com.br/tvtudoparana/video.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tvci.png" group-title="Paraná",TVCi
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VDqCX9/041.jpg" group-title="Rondônia",SICtv
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/web-tv.jpg?alt=media&token=0ee24aea-3b47-43f5-94b9-0b07c7d1ab03" group-title="Rondônia",TV Rio Madeira
@@ -573,6 +561,16 @@ https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/ministerio-infantil-tv-mitv-kids.png" group-title="Distrito Federal",Ministério Infantil TV - MITV (Kids)
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tv-adorador-gospel.jpg?alt=media&token=fdf0f1fd-f5bc-4077-b8f8-a9c8490f57eb" group-title="Amazonas",Tv Adorador Gospel
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/amazon-sat.png" group-title="Amazonas",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/radiotvwebsilvesfm.jpeg" group-title="Amazonas",RADIOTVWEBSILVESFM
+https://stmv2.liveplushd.com.br/radiotvsilvesfm/radiotvsilvesfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/07/BDC-TV-800x450-2.png" group-title="Amazonas",BDC TV
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-explosaofm-filial.png" group-title="Amazonas",TV EXPLOSÃOFM FILIAL
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/the_jetsons.jpg?alt=media&token=654e8255-c585-4de5-89f6-3ac02a271c2c" group-title="Kids",The JetSons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/Kanuca-TV-800x450-1.png" group-title="Kids",Kanuca TV Brasil
