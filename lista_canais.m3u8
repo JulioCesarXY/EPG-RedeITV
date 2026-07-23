@@ -31,8 +31,6 @@ https://stmv.webtvninjas.com.br/tvmetropolefortaleza/tvmetropolefortaleza/playli
 https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/Tj_xGcaPAP8_o9nRzSQkRg1dHy0iVftX.png" group-title="Ceará",TV METROPOLE CARIRI
 https://stmv.jnbhost.com.br/tvmetropolecariri/tvmetropolecariri/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/alRxZdFnzEZ1uJKg7hgsWf-wuQCUxtAF.png" group-title="Ceará",Iblizz
-https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ceará",TV Cidade Mauriti
 https://stream.hostus.com.br/live/9733582e154301363a6692fdfb47dd74.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/ua2wwcUKzqFSlaI7eF40Dqv6DTvSDdAT.png" group-title="Ceará",TV PAPAGAIO
@@ -113,6 +111,8 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fl
 https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/uH_XI_0TZ-KvHKaP48_1UkSmU5t8Tctu.png" group-title="Pernambuco",TV IMJC
 https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/uno-tv.png" group-title="Pernambuco",UNO TV
+https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Santa Catarina",TV da Cidade Joinville – SC
 https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/unisul-tv.jpg?alt=media&token=5eaf8f54-6a37-4997-b79f-43c9750c430f" group-title="Santa Catarina",Unisul TV
@@ -195,8 +195,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/HS6R6cPwFos9kAjpyq3ZIVzgvJYpeOXc.png" group-title="São Paulo",TV Ponto de Encontro
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="São Paulo",TV A Crítica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",TV Fórum
 https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qZOOT6J4-mW6k2bi_YQz0tBhn_kp60fO.jpg" group-title="São Paulo",Ribeirão Web News
@@ -297,8 +295,6 @@ https://video01.logicahost.com.br/agronosso/agronosso/playlist.m3u8
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rittv.png" group-title="São Paulo",RITTV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/01/hiphop.jpg" group-title="São Paulo",HIP-HOP VAI ALEM NA TV
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/nossa-tv.png" group-title="São Paulo",Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-mais-marilia.png" group-title="São Paulo",TV Mais Marília
@@ -335,6 +331,8 @@ https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8
 https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_1800000=10000.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-channel-network.png" group-title="São Paulo",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/unique-tv.png" group-title="São Paulo",Unique TV
+https://pop.uniquetv.com.br/uniquetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/lucas-tv.png" group-title="São Paulo",Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rede-metropole.png" group-title="São Paulo",Rede Metrópole
@@ -559,6 +557,8 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tv-fonte.jpg?alt=media&token=0818be5e-79fc-43df-bdf5-1a7eef440393" group-title="Goiás",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-pai-eterno.png" group-title="Goiás",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1170674421.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/vgstv.png" group-title="Goiás",VGSTV
 https://maystreaming.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/241/2023/09/tv-e1694173039734.png" group-title="Paraná",TV A FOLHA
