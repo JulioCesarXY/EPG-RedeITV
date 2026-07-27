@@ -63,8 +63,6 @@ https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
 https://srv4.zcast.com.br/flavio8792/flavio8792/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-cariris.png" group-title="Ceará",TV Cariris
 https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-olho-dagua.png" group-title="Ceará",TV Olho D´água
-https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/pm_l57shwX6MFqDy4OZv5TFkA5vWKZOF.png" group-title="Mato Grosso",TV BRASIL SINOP
 https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/95/2023/07/logo-tv-projeto-e1690460421190.jpg" group-title="Mato Grosso",TV MARCHETI
@@ -119,8 +117,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/canal-bem-melhor.png" group-title="Santa Catarina",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tvbc.png" group-title="Santa Catarina",TVBC
-https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Rio Grande do Sul",TV São Gabriel
 https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/wuCWTRyVhPi6KylujOFHG6XjQseBE7jg.png" group-title="Rio Grande do Sul",CW TV
@@ -187,8 +183,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/HS6R6cPwFos9kAjpyq3ZIVzgvJYpeOXc.png" group-title="São Paulo",TV Ponto de Encontro
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="São Paulo",TV A Crítica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",TV Fórum
 https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qZOOT6J4-mW6k2bi_YQz0tBhn_kp60fO.jpg" group-title="São Paulo",Ribeirão Web News
