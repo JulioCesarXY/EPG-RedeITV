@@ -177,6 +177,8 @@ https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
 https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png" group-title="Rio Grande do Sul",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/summit-tv.png" group-title="Rio Grande do Sul",Summit TV
+https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tve-rs.png" group-title="Rio Grande do Sul",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rs-play.png" group-title="Rio Grande do Sul",RS Play
@@ -191,8 +193,6 @@ https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/ijui-play.png" group-title="Rio Grande do Sul",Ijuí Play
 https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/xtreme-tv.png" group-title="Rio Grande do Sul",Xtreme TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-mar-rio-grande.png" group-title="Rio Grande do Sul",TV Mar Rio Grande
 https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/litoral-play-tv.png" group-title="Rio Grande do Sul",TV Praia
@@ -219,6 +219,8 @@ https://sbtnews.maissbt.com/3.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",VRT CHannel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/_llCYFVovGfuUxn7Y8NJgXfl-S4jm2Iw.png" group-title="São Paulo",MVERSO TELEVISÃO
+https://stmv.webtvninjas.com.br/gustavo7599/gustavo7599/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/W9TIfBYxyx5MB219iIyU8jgv-LKjtvi_.png" group-title="São Paulo",BADOLY TV
 https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/HS6R6cPwFos9kAjpyq3ZIVzgvJYpeOXc.png" group-title="São Paulo",TV Ponto de Encontro
@@ -319,6 +321,8 @@ https://video01.logicahost.com.br/agronosso/agronosso/playlist.m3u8
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rittv.png" group-title="São Paulo",RITTV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/01/hiphop.jpg" group-title="São Paulo",HIP-HOP VAI ALEM NA TV
+https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/nossa-tv.png" group-title="São Paulo",Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-mais-marilia.png" group-title="São Paulo",TV Mais Marília
@@ -389,8 +393,6 @@ https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 https://Stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-explosao-fm.png" group-title="São Paulo",TV EXPLOSÃO FM
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-difusao.png" group-title="São Paulo",TV DIFUSÃO
-https://tvditv.acessaradios.com.br/tvditv/tvditv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/blGlyH7MoU2lqVFXDh4upLyU1yUNSty4.jpeg" group-title="São Paulo",TV Clube - Rede Clube de Televisão
 https://maystreaming.cloudecast.com/recon/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-da-pesca.png" group-title="São Paulo",TV Da Pesca
