@@ -3,20 +3,16 @@
 https://tv.rbti.tv.br/rbti2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",RBTI+TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/C_28tKGPXVSBYYxV7gB_-8sKgwrG6kcE.png" group-title="São Paulo",vevo '90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/r3L7Xy3Vj9cvRPzYHXHBHvmBYAKUWvOr.png" group-title="São Paulo",vevo '80s
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qNaJNf_GEbkp6-NAegdC6WDxvjC8xN02.png" group-title="São Paulo",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/M8IdqU0MG3c2N29hILYn3hTPlSOBStPk.webp" group-title="São Paulo",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",VRT CHannel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/_llCYFVovGfuUxn7Y8NJgXfl-S4jm2Iw.png" group-title="São Paulo",MVERSO TELEVISÃO
+https://stmv.webtvninjas.com.br/gustavo7599/gustavo7599/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/HS6R6cPwFos9kAjpyq3ZIVzgvJYpeOXc.png" group-title="São Paulo",TV Ponto de Encontro
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="São Paulo",TV A Crítica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",TV Fórum
 https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qZOOT6J4-mW6k2bi_YQz0tBhn_kp60fO.jpg" group-title="São Paulo",Ribeirão Web News
@@ -245,6 +241,8 @@ https://x1colegal.com/hls/0/stream.m3u8
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/yqiCD0kRAAW43V5qoFAybchc2kFHIW_v.jpg" group-title="Rio Grande do Sul",TV CASA DO PAI
 https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/TV-Liberdade-800x450-1.png" group-title="Rio Grande do Sul",TV Liberdade HD
+https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png" group-title="Rio Grande do Sul",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/summit-tv.png" group-title="Rio Grande do Sul",Summit TV
@@ -527,12 +525,6 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/07/LOGO-TV-100-800x450-2.png" group-title="Nacional",TV 100% Caipira
 https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1288/2024/03/LOGO_TV_MANA_BRASIL_V4-1.jpg" group-title="Internacional",TV MANA BRASIL
-https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1288/2024/03/LOGO-KURIAKOS-TV-1.png" group-title="Internacional",Kuriakos TV
-https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Internacional",Séries Classic
-https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/142/2023/08/LOGO.png" group-title="Rio Grande do Norte",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-avivando-nacoes.png" group-title="Rio Grande do Norte",TV AVIVANDO NAÇÕES
@@ -601,3 +593,5 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/chunklist_w1189538587.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-pompeia.png" group-title="Tocantins",TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2023/09/Logo-Series-800X450-2.png" group-title="Internacional",Séries Classic
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
