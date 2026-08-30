@@ -311,8 +311,6 @@ https://x1colegal.com/hls/0/stream.m3u8
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/yqiCD0kRAAW43V5qoFAybchc2kFHIW_v.jpg" group-title="Rio Grande do Sul",TV CASA DO PAI
 https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/TV-Liberdade-800x450-1.png" group-title="Rio Grande do Sul",TV Liberdade HD
-https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/1217/2024/03/REDE-ITV-800-x-450-px.png" group-title="Rio Grande do Sul",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/summit-tv.png" group-title="Rio Grande do Sul",Summit TV
@@ -485,8 +483,6 @@ https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vRsHpG/1280.jpg" group-title="Alagoas",Web Tv Juventude
 https://stmv1.srvif.com/valmirtv/valmirtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/reviva-tv.png" group-title="Alagoas",Reviva TV
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-explosaofm-series.png" group-title="Alagoas",TV EXPLOSÃOFM SÉRIES
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/j6oTS8gu3DYLAsqGXYDmVav6BdRqJpJ8.jpg" group-title="Minas Gerais",Rádio Forró Mix
@@ -497,8 +493,6 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 https://video04.logicahost.com.br/novariotv/novariotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/114/2023/08/logo-para-a-nova-iptv.jpg" group-title="Minas Gerais",REDE WTJMINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QX2s7DC/016.jpg" group-title="Minas Gerais",TV Candidés
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/136/2023/09/Arte-Para-Site-Terceiros-Seven-Tv-2023.jpg" group-title="Minas Gerais",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/7tvs.png" group-title="Minas Gerais",7tvs
@@ -517,8 +511,6 @@ https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/playlist.m3u8
 https://Stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rede-ultra-tv.png" group-title="Minas Gerais",REDE ULTRA TV
 https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-3-fronteiras.png" group-title="Minas Gerais",TV 3 Fronteiras
-https://isaocorp.cloudecast.com/tv3fronteiras/index.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/08/TV-Tudo.png" group-title="Nacional",TV TUDO
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2024/08/Vivax.png" group-title="Nacional",REDE VIVAX TV
