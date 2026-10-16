@@ -221,10 +221,10 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/nossa-tv.png" group-title="São Paulo",Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-mais-marilia.png" group-title="São Paulo",TV Mais Marília
+https://video01.logicahost.com.br/tvmais/tvmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-filmes-gospel.png" group-title="São Paulo",TOP MIX TV FILMES GOSPEL
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-camara-lins.png" group-title="São Paulo",TV CÂMARA LINS
-https://video04.logicahost.com.br/camaralins/camaralins/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/top-mix-tv-canal-sertanejo.png" group-title="São Paulo",TOP MIX TV -  CANAL SERTANEJO
 https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-noticias-agricolas.png" group-title="São Paulo",TV Notícias Agrícolas
@@ -345,6 +345,8 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/j6oTS8gu3DYLAsqGXYDmVav6BdRqJpJ8.jpg" group-title="Minas Gerais",Rádio Forró Mix
 https://v01.taaqui.org/radioforromix/radioforromix/chunklist_w1792520049.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/2270/2024/07/LOGO-LIDER-EM-BAIXA-1.png" group-title="Minas Gerais",Líder TV
+https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/68/2023/08/Fundo-transparente-1.png" group-title="Minas Gerais",Nova Rio TV
 https://video04.logicahost.com.br/novariotv/novariotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/114/2023/08/logo-para-a-nova-iptv.jpg" group-title="Minas Gerais",REDE WTJMINAS
@@ -367,6 +369,10 @@ https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/playlist.m3u8
 https://Stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-3-fronteiras.png" group-title="Minas Gerais",TV 3 Fronteiras
 https://isaocorp.cloudecast.com/tv3fronteiras/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Rondônia",Canaã News TV- A Voz do Vale de Jamari
+https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/web-tv.jpg?alt=media&token=0ee24aea-3b47-43f5-94b9-0b07c7d1ab03" group-title="Rondônia",TV Rio Madeira
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paraíba",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/1XFpxabqi1P4tMVGTAcGDTMWfE6Gx02J.png" group-title="Paraíba",TV TRIBUNA10
@@ -539,6 +545,8 @@ https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/the_jetsons.jpg?alt=media&token=654e8255-c585-4de5-89f6-3ac02a271c2c" group-title="Kids",The JetSons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/84/2024/07/Kanuca-TV-800x450-1.png" group-title="Kids",Kanuca TV Brasil
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/S6SLTPO2H7V-g3L2y8m4lK4R9ZULyXQx.png" group-title="Kids",F. Kids Network
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/137/2023/08/IMG-20220508-WA0121-1-e1692619875326.jpg" group-title="Goiás",+MaisUm
@@ -561,10 +569,6 @@ https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 https://pop2.uniquetv.com.br/hls/conexaotv.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tvci.png" group-title="Paraná",TVCi
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0VDqCX9/041.jpg" group-title="Rondônia",SICtv
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
-#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/web-tv.jpg?alt=media&token=0ee24aea-3b47-43f5-94b9-0b07c7d1ab03" group-title="Rondônia",TV Rio Madeira
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJTmHFm/018.jpg" group-title="Pará",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/sbt-para.png" group-title="Pará",SBT Pará
