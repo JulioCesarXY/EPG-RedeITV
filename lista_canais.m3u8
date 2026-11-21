@@ -33,8 +33,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="São Paulo",TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="São Paulo",TV Fórum
-https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/qZOOT6J4-mW6k2bi_YQz0tBhn_kp60fO.jpg" group-title="São Paulo",Ribeirão Web News
 https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/T2RqwZd7GGCGQ3gv7huRTAWL7Xk31otj.png" group-title="São Paulo",TV AGORA LITORAL NORTE
@@ -187,6 +185,8 @@ https://stmv1.paineldevideo.com.br/clagpl2/clagpl2/playlist.m3u8
 https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-explosao.png" group-title="São Paulo",TV EXPLOSÃO
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/cnu.png" group-title="São Paulo",CNU
+https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/rede-istv.png" group-title="São Paulo",Rede ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/01-tv-itapetinga-sp.png" group-title="São Paulo",01 TV Itapetinga SP
@@ -321,8 +321,6 @@ https://srv1.zcast.com.br/flavio8394/flavio8394/playlist.m3u8
 https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/SFL1u-fQ2a3ytKLIux3jTaL9C3HzQvzk.png" group-title="Ceará",TV GALINHA CHOCA
 https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/I4HFqj5d9yTsIvcfL9Y9erOyluiMJcHV.png" group-title="Ceará",TV METROPOLE FORTALEZA 16
-https://stmv.webtvninjas.com.br/tvmetropolefortaleza/tvmetropolefortaleza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/Tj_xGcaPAP8_o9nRzSQkRg1dHy0iVftX.png" group-title="Ceará",TV METROPOLE CARIRI
 https://stmv.jnbhost.com.br/tvmetropolecariri/tvmetropolecariri/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/iJZEjgoFzEFpeDfGdeVZZ0ppk5wf5nvH.png" group-title="Ceará",TV LatinaSat Ceará
@@ -341,8 +339,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tva.jpg?alt=media&token=74f67529-a63a-431d-9733-22151edcd58e" group-title="Ceará",Tv Alagoinha
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-metropole-guaiuba.png" group-title="Ceará",Tv metropole guaiuba
-https://stmv3.webtvninjas.com.br/tvguaiuba/tvguaiuba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-metrople-sobral-461.png" group-title="Ceará",Tv metropole Sobral 46.1
 https://stmv4.voxtvhd.com.br/tvmetropolesobral/tvmetropolesobral/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/quixeramobim-tv.png" group-title="Ceará",Quixeramobim TV
@@ -589,6 +585,8 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2023/06/tvcidadebrasil.jpg" group-title="Distrito Federal",Tv Cidade
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-com-df.png" group-title="Distrito Federal",TV Com DF
+https://5b7f3c45ab7c2.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/ministerio-infantil-tv-mitv-kids.png" group-title="Distrito Federal",Ministério Infantil TV - MITV (Kids)
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/jovem-total-tv-digital.png" group-title="Tocantins",JOVEM TOTAL TV DIGITAL
