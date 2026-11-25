@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/44WZQadIoyN0nIKRQVHoTPWhoBtL3NSn.jpg" group-title="São Paulo",Comedy Central
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/7Rgdr4t74VdC9zkC0Msszi2frXvTMf5x.png" group-title="São Paulo",Brks TV
-https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/kpf8k7BCrPNgHd-tlgJ7uQ1kdlXCw2Kk.png" group-title="São Paulo",brkstv
-https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/ntXF2n6qqICdKD4gvV-MAAl7XqSFCBSF.jpeg" group-title="São Paulo",Vicapró Tv
 https://stmv2.srvif.com/vicaprotv/vicaprotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/Pmyp6tltP3xUVe0y1yZ9ROtqAM94XE4g.png" group-title="São Paulo",SBC
@@ -359,8 +355,6 @@ https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
 https://Stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redeitv.com.br/wp-content/uploads/2023/11/Logotipo_da_Rede_Cidade_Verde-1.png" group-title="Mato Grosso",Tv cidade verde Cuiabá
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://redeitv.online/roku/imgcanais/tv-tbo.jpg?alt=media&token=e5b667f1-9f59-4024-adda-3fce4f106a8a" group-title="Mato Grosso",TBO
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/sbt-nova-mutum.png" group-title="Mato Grosso",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-conquista.png" group-title="Mato Grosso",TV CONQUISTA
@@ -431,12 +425,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3MtcpfN/vivo.jpg" group-title="Santa Catarina",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/reisen-clube-tv.png" group-title="Santa Catarina",Reisen Clube TV
-https://pop.uniquetv.com.br/hls/reisenclubetv.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/canal-bem-melhor.png" group-title="Santa Catarina",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/Hjhag7TBWmYwWuYCJr648W6Kaf41F8-a.png" group-title="Santa Catarina",TV Planalto Norte
-https://pop.uniquetv.com.br/hls/tvplanaltonorte.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tvbc.png" group-title="Santa Catarina",TVBC
 https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/hpVYA7BTyRXlyauYC1P9ADwoPKsVT0XV.png" group-title="Sergipe",Já Viu TV - Sergipe
@@ -571,8 +561,6 @@ https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/viva-vida.png" group-title="Paraná",Viva Vida
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/logos/yAnwUYNBJxHpT5klaLqKDz8lRKU9qVSZ.png" group-title="Paraná",TV Conexão
-https://pop.uniquetv.com.br/hls/conexaotv.m3u8
 #EXTINF:-1 tvg-logo="https://s3minio.webativa.com.br/redeitv/tvci.png" group-title="Paraná",TVCi
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJTmHFm/018.jpg" group-title="Pará",TV Marajoara
